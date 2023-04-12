@@ -1,0 +1,7 @@
+.nyc_output/
+build/commonjs/
+build/module/
+build/script/
+build/types/
+coverage/
+node_modules/
